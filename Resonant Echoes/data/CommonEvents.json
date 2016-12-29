@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"list":[{"code":124,"indent":0,"parameters":[0,30]},{"code":136,"indent":0,"parameters":[0]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Applied Troll-Away Spray. Lawd, this stuff stinks!"]},{"code":0,"indent":0,"parameters":[]}],"name":"Repel #1","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":111,"indent":0,"parameters":[3,0,1]},{"code":124,"indent":1,"parameters":[1]},{"code":136,"indent":1,"parameters":[1]},{"code":101,"indent":1,"parameters":["",0,0,1]},{"code":401,"indent":1,"parameters":["Troll-Away spray wore off!"]},{"code":121,"indent":1,"parameters":[1,1,1]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Repel #2","switchId":1,"trigger":2},
+{"id":3,"list":[{"code":126,"indent":0,"parameters":[22,0,0,2]},{"code":0,"indent":0,"parameters":[]}],"name":"Repel test","switchId":2,"trigger":1},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"Summon Omniturret","switchId":3,"trigger":2},
+{"id":5,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"disperse followers","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"gather followers","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
